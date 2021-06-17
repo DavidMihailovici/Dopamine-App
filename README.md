@@ -1,2 +1,0 @@
-# Dopamine-App
-WAD Project
